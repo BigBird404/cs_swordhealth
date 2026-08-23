@@ -1,5 +1,7 @@
 # Case study Sword health
 
+![Alt Text](image.png) 
+
 Sword Health is an AI-powered healthcare provider that delivers clinical-grade phys-
 ical therapy directly to patients’ homes. Its core solution uses wearable motion-tracking
 sensors and an AI “digital therapist” (named Phoenix) to guide users through exercises
